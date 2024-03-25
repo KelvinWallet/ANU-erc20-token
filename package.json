@@ -6,6 +6,6 @@
     "solc": "0.5.0",
     "truffle": "5.0.21",
     "truffle-flattener": "1.3.0",
-    "web3": "1.0.0-beta.55"
+    "web3": "4.6.0"
   }
 }
